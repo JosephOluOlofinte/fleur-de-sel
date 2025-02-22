@@ -53,7 +53,7 @@
             </mj-column>
         </mj-section>
 
-        <mj-section>
+        <mj-section background-color="white">
             <mj-column>
                 <mj-text>
                     FLEUR DE SEL
@@ -68,7 +68,7 @@
                 </mj-button>
             </mj-column>
 
-            <mj-column background-color="white">
+            <mj-column>
                 <mj-image src="https://blogger.googleusercontent.com/img/a/AVvXsEi_bxQJz_ho63nt6--ApnvZn0ESxAm6LVRlyQkB8p2ZKnbVvtZZhy-u8FLNqbn-qGtqvFNTbTeByyJqKwyuAmiQ54pZSX0bHPJ-rZAwkFAMOMJREiEe-udutLG3GoAvT4kNmmFZj80qSQIBfhjP-_InYmBny69z2GrdySe2w_WC8gEUeRSnGHDY9xUVBhI9" alt="" />
             </mj-column>
         </mj-section>
