@@ -35,7 +35,7 @@
         <!-- HERO IMAGE -->
         <mj-section background-color="white" padding="0">
             <mj-column width="100%" padding="20px 0">
-                <mj-image src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgb2nhwlpPdGmcosNE_6Z6qqVcpQONgawISXQCYDZnWT7kY4sU6oO7_PLXnl6MG-E6nDP6iPs_Q5HKz9_xAz97s7M_XnOqPbuYTpPihFWhenltKdCZnd7RZmTgSxPeRfweUBi2aT-ZSdpueIpPz2zwyDVudoCAZOa7uyJjyk-drayvLJ2uRqfMUHSUaRJ_v/s320/promo-image.png" alt="" />
+                <mj-image src="https://blogger.googleusercontent.com/img/a/AVvXsEgiDGvMdcXoqe1J8kTr8aKiy69dh7tzHVfRU6Qk-fus95DfuvawQ9qktTomRcFhnfrT3ROBHddUtT-rMex4YKAqV6xF3iE2FGyMFwwbWvgrmnBWYY6QjkD07Ab4sl5w1T52dULdJsPsGp7wlQYmhKxFCf11fg8x_A8ucYiHmudUrcKompQ7lh09-2Q1RvYG" alt="" />
             </mj-column>
         </mj-section>
 
@@ -50,6 +50,26 @@
                     From the delicate Fleur de Sel to the smoky Smoked Bacon Sea Salt, each variety offers a distinct taste and culinary use that will enhance your dishes in extraordinary ways.
                 </mj-text>
                 
+            </mj-column>
+        </mj-section>
+
+        <mj-section>
+            <mj-column>
+                <mj-text>
+                    FLEUR DE SEL
+                </mj-text>
+
+                <mj-text>
+                    The perfect finishing touch for steamed and grilled veggies, salads, and roasted meats. Sprinkle a little on your favorite dishes for a delicate crunch and a burst of flavor.
+                </mj-text>
+
+                <mj-button href="#"  padding="0 27px" align="center" background-color="black" inner-padding="15px 20px" font-weight="600" font-size="16px">
+                    SHOP FLEUR DE SEL &rarr;
+                </mj-button>
+            </mj-column>
+
+            <mj-column background-color="white">
+                <mj-image src="https://blogger.googleusercontent.com/img/a/AVvXsEi_bxQJz_ho63nt6--ApnvZn0ESxAm6LVRlyQkB8p2ZKnbVvtZZhy-u8FLNqbn-qGtqvFNTbTeByyJqKwyuAmiQ54pZSX0bHPJ-rZAwkFAMOMJREiEe-udutLG3GoAvT4kNmmFZj80qSQIBfhjP-_InYmBny69z2GrdySe2w_WC8gEUeRSnGHDY9xUVBhI9" alt="" />
             </mj-column>
         </mj-section>
 
