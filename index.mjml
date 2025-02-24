@@ -74,6 +74,10 @@
             </mj-column>
         </mj-section>
 
+        <mj-section background-color="white" padding="10px">
+            <!-- EMPTY SECTION FOR SPACE -->
+        </mj-section>
+
         <!-- EMAIL FOOTER -->
         <mj-wrapper background-color="#EDEBDE" padding="30px 0">
 
