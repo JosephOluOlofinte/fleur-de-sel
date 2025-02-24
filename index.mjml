@@ -4,7 +4,7 @@
         <mj-title>ESSENTIAL SEA SALTS FOR EVERY COOK 🧂</mj-title>
         <mj-breakpoint width="375px" />
         <mj-attributes><mj-all padding="0" font-family="Raleway" /></mj-attributes>        
-        <mj-font name="Raleway" href="https://fonts.googleapis.com/css?family=Raleway" />
+        <mj-font name="Raleway" href="https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap" />
     </mj-head>
 
     <mj-body background-color="#E8E6E6">
@@ -17,7 +17,7 @@
         
 
         <!-- COMPANY LOGO -->
-        <mj-section background-color="white" padding="20px 0" padding-top="40px">
+        <mj-section background-color="white" padding-bottom="20px" padding-top="40px">
             <mj-column padding="0">
                 <mj-image src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXYc3pkf7o6ydi-2JYJwplQDGq9FkHme_akAuKs1X4EOZhyphenhyphen-dVH9KfrZKEVsoGtuutfgYDTlNaiSsbbwbMtXXs89MgZVsZsWv-wZrGssaKUm_I1WIxxxScqxLc6flARyyLsfmxEMVh5EfGGtvz32uwEGr1Z5UZlPssqeIvmUSfoYvGakQJ_OwZdIAm4W5A/s114/logo.png" alt="" height="60px" width="110px" />
             </mj-column>
@@ -26,49 +26,51 @@
         <!-- EMAIL TITLE -->
         <mj-section background-color="white" padding="20px 0">
             <mj-column width="100%">
-                <mj-text align="center" padding="0 25px" font-size="28px" font-weight="bold" line-height="40px">
+                <mj-text align="center" padding="0 25px" font-size="32px" font-weight="800" line-height="40px">
                     ESSENTIAL SEA SALTS FOR EVERY COOK 🧂
                 </mj-text>
             </mj-column>
         </mj-section>
 
         <!-- HERO IMAGE -->
-        <mj-section background-color="white" padding="0">
+        <mj-section background-color="white">
             <mj-column width="100%" padding-top="20px">
                 <mj-image src="https://blogger.googleusercontent.com/img/a/AVvXsEgiDGvMdcXoqe1J8kTr8aKiy69dh7tzHVfRU6Qk-fus95DfuvawQ9qktTomRcFhnfrT3ROBHddUtT-rMex4YKAqV6xF3iE2FGyMFwwbWvgrmnBWYY6QjkD07Ab4sl5w1T52dULdJsPsGp7wlQYmhKxFCf11fg8x_A8ucYiHmudUrcKompQ7lh09-2Q1RvYG" alt="" />
             </mj-column>
         </mj-section>
 
         <!-- EMAIL BODY COPY -->
-        <mj-section background-color="white" padding="35px 0">
-            <mj-column width="87%">
-                <mj-text align="left" padding-bottom="20px" font-size="18px" font-weight="600" color="#ED8506" line-height="28px">
+        <mj-section background-color="white" padding="35px 5%">
+            <mj-column>
+                <mj-text align="left" padding-bottom="20px" font-size="18px" font-weight="700" color="#ED8506" line-height="28px">
                     Elevate your dishes with premium sea salts from Red Stick Spice.
                 </mj-text>
 
-                <mj-text align="left" font-size="18px" line-height="25px" font-weight="400">
+                <mj-text align="left" font-size="18px" line-height="28px">
                     From the delicate Fleur de Sel to the smoky Smoked Bacon Sea Salt, each variety offers a distinct taste and culinary use that will enhance your dishes in extraordinary ways.
                 </mj-text>                
             </mj-column>
         </mj-section>
 
-        <mj-section background-color="white">
-            <mj-column>
-                <mj-text>
+        
+        <!-- TWO-COLUMN SECTION -->
+        <mj-section background-color="white" padding="25px 5%" padding-bottom="0px" border-top="1px solid grey" border-bottom="1px solid grey">
+            <mj-column width="65%" vertical-align="middle">
+                <mj-text font-size="24px" font-weight="800">
                     FLEUR DE SEL
                 </mj-text>
 
-                <mj-text>
+                <mj-text font-size="16px" line-height="26px" padding-top="5px" padding-right="7%">
                     The perfect finishing touch for steamed and grilled veggies, salads, and roasted meats. Sprinkle a little on your favorite dishes for a delicate crunch and a burst of flavor.
                 </mj-text>
 
-                <mj-button href="#"  padding="0 27px" align="center" background-color="black" inner-padding="15px 20px" font-weight="600" font-size="16px">
+                <mj-button href="#"  padding-top="30px" padding-bottom="25px" align="left" background-color="black" inner-padding="15px 20px" font-weight="600" font-size="16px">
                     SHOP FLEUR DE SEL &rarr;
                 </mj-button>
             </mj-column>
 
-            <mj-column>
-                <mj-image src="https://blogger.googleusercontent.com/img/a/AVvXsEi_bxQJz_ho63nt6--ApnvZn0ESxAm6LVRlyQkB8p2ZKnbVvtZZhy-u8FLNqbn-qGtqvFNTbTeByyJqKwyuAmiQ54pZSX0bHPJ-rZAwkFAMOMJREiEe-udutLG3GoAvT4kNmmFZj80qSQIBfhjP-_InYmBny69z2GrdySe2w_WC8gEUeRSnGHDY9xUVBhI9" alt="" />
+            <mj-column width="35%" vertical-align="middle" padding-bottom="25px">
+                <mj-image src="https://blogger.googleusercontent.com/img/a/AVvXsEgx7HtO27umIS6LAycJ7ugNe0enW9j6xP7wHNtEv_mNDWoTVHEGlQPULyA3QOgvbpTpzSHQEuXzsgz8-4scquCy3l6PVhhBJlca9VVLf9v-JPQfwUaE_G-SrUp4Mn8Q8K-pKlxaigXy2-fAzzKIJCkttalgo7OkMJkH6zrpVw5-15RZ6vEYU0QFky81zGhq" alt=""/>
             </mj-column>
         </mj-section>
 
