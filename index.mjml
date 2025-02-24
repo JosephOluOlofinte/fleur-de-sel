@@ -34,22 +34,21 @@
 
         <!-- HERO IMAGE -->
         <mj-section background-color="white" padding="0">
-            <mj-column width="100%" padding="20px 0">
+            <mj-column width="100%" padding-top="20px">
                 <mj-image src="https://blogger.googleusercontent.com/img/a/AVvXsEgiDGvMdcXoqe1J8kTr8aKiy69dh7tzHVfRU6Qk-fus95DfuvawQ9qktTomRcFhnfrT3ROBHddUtT-rMex4YKAqV6xF3iE2FGyMFwwbWvgrmnBWYY6QjkD07Ab4sl5w1T52dULdJsPsGp7wlQYmhKxFCf11fg8x_A8ucYiHmudUrcKompQ7lh09-2Q1RvYG" alt="" />
             </mj-column>
         </mj-section>
 
         <!-- EMAIL BODY COPY -->
-        <mj-section background-color="white" padding="20px 0" padding-bottom="45px">
-            <mj-column width="90%">
-                <mj-text align="left" padding="20px 0" padding-bottom="35px" font-size="16px" font-weight="600" color="#ED8506" line-height="28px">
+        <mj-section background-color="white" padding="35px 0">
+            <mj-column width="87%">
+                <mj-text align="left" padding-bottom="20px" font-size="18px" font-weight="600" color="#ED8506" line-height="28px">
                     Elevate your dishes with premium sea salts from Red Stick Spice.
                 </mj-text>
 
-                <mj-text align="left" font-size="16px" line-height="25px" font-weight="400">
+                <mj-text align="left" font-size="18px" line-height="25px" font-weight="400">
                     From the delicate Fleur de Sel to the smoky Smoked Bacon Sea Salt, each variety offers a distinct taste and culinary use that will enhance your dishes in extraordinary ways.
-                </mj-text>
-                
+                </mj-text>                
             </mj-column>
         </mj-section>
 
